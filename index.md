@@ -16,13 +16,24 @@ Blog [http://hiragram.hatenablog.jp/](http://hiragram.hatenablog.jp/)
 
 ## Products
 
+#### Orbit
+
+[Orbit on the App Store](https://itunes.apple.com/jp/app/id1342260317)
+
+[![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.png)](https://itunes.apple.com/jp/app/id1342260317)
+
+Oct. 2017
+
+This app shows current rate of BTC/JPY around several Bitcoin exchanges.
+RxSwift / Firebase / Vapor / Vapor Cloud
+
 #### SushiCamera
 
 [SushiCamera on the App Store](https://appsto.re/jp/VzxFfb.i)
 
 [![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.png)](https://itunes.apple.com/jp/app/sushicamera-o-shou-sitoanatano3miao/id1165850223?mt=8)
 
-Aug. 2016 - Present
+Aug. 2016
 
 iOS GIF camera app.
 Records a short movie and exports as an animated GIF.
@@ -44,17 +55,21 @@ UIKit / CocoaPods
 
 ## Career
 
-#### Jan. 2015 - Present
+#### Aug. 2018
+
+???
+
+#### Jul. 2017 - Jul. 2018
+
+VASILY, Inc. (Acquired by Start Today in Nov. 2017)
+iOS App Developer
+
+Swift3,4 / RxSwift etc.
+
+#### Apr. 2014 - Jun. 2017
 
 Speee, Inc.
-iOS App Engineer
+PHP Engineer / iOS App Engineer
 
-Swift1,2,3 / TravisCI / Carthage
-
-#### Apr. 2014 - Jan. 2015
-
-Speee, Inc.
-PHP Engineer
-
-FuelPHP / jQuery
+FuelPHP / jQuery / Swift1,2,3 / TravisCI / Carthage
 
